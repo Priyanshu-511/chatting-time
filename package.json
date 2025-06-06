@@ -1,0 +1,16 @@
+{
+  "name": "chat-tech",
+  "version": "1.0.0",
+  "description": "this is for chatting",
+  "license": "ISC",
+  "author": "priyanshu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
